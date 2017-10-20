@@ -1,0 +1,9 @@
+diff a/masteringgit.txt b/masteringgit.txt	(rejected hunks)
+@@ -1 +0,5 @@
+-fix master
+\ No newline at end of file
++<<<<<<< HEAD
++Anthony
++=======
++1572010/Anthony
++>>>>>>> Anthony
